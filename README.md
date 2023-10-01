@@ -1,7 +1,7 @@
-<h1 align="center"> User registration API </h1>
+<h1 align="center"> User registration with Admin </h1>
 
 <p align="center">
-    This is a simple form with API developed with Python/Django
+    This is a simple form with Admin developed with Python/Django
 </p>
 
 <p align="center">
@@ -27,6 +27,7 @@ This project was developed with the following technologies:
 
 - Python
 - Django
+- SQLite3/Db Browser
 - HTML and CSS
 - Git and Github
 - Deploy with bohr.io
