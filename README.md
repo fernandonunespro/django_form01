@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-You can acess here https://prime-flix-64ti3eqap-fernando-nunes-projects.vercel.app/
+You can acess here 
 </p>
 
 <p align="center">
